@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1678725261412.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8631EDBC",
+    "lastKnownWriteTime" : 1678725228,
+    "last_content_update" : 1678725261412,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A2578BE9",
+        "caption" : "WagesPanel",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=WagesPanel&cache_key=A2578BE9",
+        "displayedObservations" : 3580,
+        "environment" : "",
+        "expression" : "WagesPanel",
+        "object" : "WagesPanel",
+        "preview" : 0,
+        "totalObservations" : 3580,
+        "variables" : 18
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
